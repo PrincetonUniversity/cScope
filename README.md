@@ -10,4 +10,4 @@ UnwarpedImage = imwarp(Image,tform,'OutputView',imref2d(size(Image)));
 or
 UnwarpedImage = imwarp(Image,tform);
 
-An image is provided to test run software. 
+An image ("500umgrid.png") is provided to test run the code. 
