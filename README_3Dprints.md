@@ -1,4 +1,4 @@
-#3D rinted parts in cScope
+# 3D rinted parts in cScope
 
 .STL files for the 3d printed parts used in cScope
 
