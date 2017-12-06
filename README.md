@@ -1,7 +1,7 @@
-# HMWFM
-Head Mounted Wide-Field Microscope
+# cScope
+A Head Mounted Wide-Field Macroscope
 
-QuantifyingImageDeformation.m is used to calculate the corrections to apply to correct for the barrel deformation of the microscope.
+QuantifyingImageDeformation.m is used to calculate the corrections to apply to correct for the barrel deformation of the macroscope.
 
 This function has for single INPUT an image of the grid and for OUTPUTS, the corrected image (unwarped) of the grid and the computed geometric transformation object 'tform' that will be used to correct other images.
 
