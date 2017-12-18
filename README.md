@@ -1,7 +1,7 @@
 # cScope 
 A Head Mounted Widefield Macroscope 
 
-This Github repository is meant to distribute the accompanying files to the manuscript "Imaging cortical dynamics in GCaMP transgenic rats with a head-mounted widefield macroscope" by Benjamin Scott, Stephan Thiberge, Caiying Guo, Dougal Tervo, Carlos Brody, Alla Karpova, David Tank submitted to Neuron Journal on December 2017.
+This Github repository is meant to distribute the files accompanying the manuscript "Imaging cortical dynamics in GCaMP transgenic rats with a head-mounted widefield macroscope" by Benjamin Scott, Stephan Thiberge, Caiying Guo, Dougal Tervo, Carlos Brody, Alla Karpova, David Tank submitted to Neuron Journal on December 2017.
 
 The repository contains the hardware information needed to build the cScope microscopes, and the software needed to run experiments and post-process the data.
 
